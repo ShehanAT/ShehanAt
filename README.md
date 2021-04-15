@@ -7,7 +7,8 @@ Here are some of my social media links:
 * [StackOverflow](https://stackoverflow.com/users/10871450/flyingfishcattle)
 * [Twitter](https://twitter.com/Shehan_Atuk)
 
-Here are some of my Github stats:
+Here are some of my Github stats: 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShehanAt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

@@ -1,6 +1,6 @@
 ### Hi there, I'm Shehan Atukorala
 
-I am a QA Analyst by profession, Freelance Software Developer and most importantly, problem solver. I believe in two foundational pillars as a good problem solver: great communication skills and tons of in-the-trenches experience. I have worked with many different clients and I'm sure I can provide value to you too, so feel free to contact me through [email](mailto:shehanatuk@gmail.com)
+I am a QA Analyst by profession, Freelance Software Developer and most importantly, problem solver. I believe in two foundational pillars as a good problem solver: great communication skills and tons of in-the-trenches experience. I have worked with many different clients and I'm sure I can provide value to you too, so feel free to contact me through [email](mailto:shehanatuk@gmail.com) or from any of my social links listed below:
 
 Here are some of my social media links:
 * [LinkedIn Profile](https://www.linkedin.com/in/shehan-atukorala-8631491a5/)

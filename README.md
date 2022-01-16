@@ -4,6 +4,8 @@ I am a QA Analyst by profession, Freelance Software Developer and most important
 
 Here are some of my social media links:
 * [LinkedIn Profile](https://www.linkedin.com/in/shehan-atukorala-8631491a5/)
+* [My Blog](https://codinginformer.com/)
+* [YouTube](https://www.youtube.com/channel/UCtxed_NljgtAXrQMMdLvhrQ)
 * [StackOverflow](https://stackoverflow.com/users/10871450/flyingfishcattle)
 * [Twitter](https://twitter.com/Shehan_Atuk)
 

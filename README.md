@@ -7,7 +7,7 @@ Here are some of my social media links:
 * [My Blog](https://codinginformer.com/)
 * [YouTube](https://www.youtube.com/channel/UCtxed_NljgtAXrQMMdLvhrQ)
 * [StackOverflow](https://stackoverflow.com/users/10871450/flyingfishcattle)
-* [Twitter](https://twitter.com/Shehan_Atuk](https://twitter.com/SeanAtukorala)
+* [Twitter](https://twitter.com/SeanAtukorala)
 
 Here are some of my GitHub stats: 
 
